@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shayan729
-- 👀 I’m interested in Programming and Development.
-- 🌱 I’m currently learning Web development . 
-- 💞️ I’m looking to collaborate on any Interesting project.
+- 💞️ I’m looking to collaborate on any Interesting projects.
   
 
 <!---
